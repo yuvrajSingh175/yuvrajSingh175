@@ -2,8 +2,8 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 I’m interested in <b>App Development</b> 📱<br>
-I’m currently exploring about Flutter-Dart. <br>
-And I Got Experience in Web Development✨
+I’m currently exploring about Android Development using Kotlin <br>
+And I'm also skilled in Web Development and Cross Platform App Dev using Flutter-Dart✨
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
